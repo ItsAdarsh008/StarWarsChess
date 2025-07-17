@@ -1,6 +1,6 @@
 //Name: Adarshkrishna Thoduvakkal
-//Date: December 15
-//Purpose: Chess Final, done on January 19
+//Date: July 17
+//Purpose: Shipwrecked
 
 import java.awt.*;
 import java.awt.event.*;
